@@ -1,0 +1,1 @@
+{"version":1,"defects":{"Warning":6,"SquareShouldTest::not_respect_the_liskov_substitution_principle_breaking_the_rectangle_laws_while_modifying_its_length":4},"times":{"Warning":0.005,"SquareShouldTest::not_respect_the_liskov_substitution_principle_breaking_the_rectangle_laws_while_modifying_its_length":0.005}}
